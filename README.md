@@ -1,7 +1,7 @@
 # Script para a criação e configuração do servidor Proxy Squid
 
 Este script foi criado para fins didáticos, caso venha da algum problema como: desistelação sem querer, corrompimento de ISO, tenha uma forma mais automática de instalar, criar, e configurar o Server Proxy Squid.
-
+Um script em shell que automatiza a criação e execução de um servidor proxy Squid, permitindo que o usuário escolha uma porta e fornecendo opções de portas seguras. O script também inclui verificações para garantir que o Squid esteja instalado e configurado corretamente.
 
 ## Explicação do Script
 
